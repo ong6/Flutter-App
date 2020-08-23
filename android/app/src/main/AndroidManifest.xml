@@ -33,6 +33,10 @@
               android:name="io.flutter.embedding.android.SplashScreenDrawable"
               android:resource="@drawable/launch_background"
               />
+            <meta-data 
+              android:name="com.google.android.geo.API_KEY"
+              android:value="AIzaSyAacadf6mFaDku70IPgDaOiHcoCVmGz6ks"
+              />
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.LAUNCHER"/>
