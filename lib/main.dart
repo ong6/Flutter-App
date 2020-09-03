@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_app/profile.dart';
+import 'package:flutter_app/maps.dart';
 
 void main() => runApp(
       MaterialApp(
@@ -48,6 +49,7 @@ class _PageViewDemoState extends State<PageViewDemo> {
       controller: _controller,
       children: [
         MyPage1Widget(),
+        Maps(),
         MyPage2Widget(),
         ProfileApp(),
         MyPage3Widget(),
