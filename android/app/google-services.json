@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "967796698231",
+    "firebase_url": "https://bruteforce-adf17.firebaseio.com",
+    "project_id": "bruteforce-adf17",
+    "storage_bucket": "bruteforce-adf17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:967796698231:android:bc3169d0ad788f9eba2a72",
+        "android_client_info": {
+          "package_name": "bruteforce.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "967796698231-1rua5585uhp26p6kqmmpgn50e0ft8t2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5p7MFtunAgsZli2iZz8POaLTndOHFLRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "967796698231-1rua5585uhp26p6kqmmpgn50e0ft8t2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
